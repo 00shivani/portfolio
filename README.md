@@ -11,7 +11,9 @@ I created a webpage which includes:
 * For the most part, the page is responsive to different viewports, but not completely as some elements are sized in a fixed ratio
 
 ## Screenshot of Application:
+![portfolio](https://user-images.githubusercontent.com/126500106/224233150-d2326110-e9ee-4c6f-8ed8-5d4c74f23f47.png)
 
 
 ## Deployed Application URL:
 https://00shivani.github.io/portfolio/
+
